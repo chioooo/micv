@@ -1,0 +1,47 @@
+body {
+    background-color: #aa77c3;
+    font-family: Georgia;
+    text-align: justify;
+}
+
+h1 {
+    color: #333333;
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color: #6165c2;
+    color: hsl(200, 15%, 30%);
+    font-size: 200%;
+    text-decoration: underline;
+}
+
+h3 {
+    background-color: #6165c2;
+    color: hsl(200, 91%, 22%);
+    font-size: 130%;
+    font-style: italic;
+}
+
+p {
+    background-color: #9794c0;
+}
+
+em {
+    color: hsl(200, 97%, 26%);
+    font-style: normal;
+    font-weight: bold;
+}
+
+strong {
+    color: hsl(200, 100%, 30%);
+    font-weight: normal;
+}
+
+address {
+    background-color: #efbfcc;
+    font-weight: bold;
+    text-align: right;
+}
